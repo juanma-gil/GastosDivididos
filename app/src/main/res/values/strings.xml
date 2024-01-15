@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">GastosDivididos</string>
     <string name="add_btn_txt">Agregar</string>
+    <string name="home_title">Mis Gastos</string>
+    <string name="home_tf_label">Nombre del evento</string>
+    <string name="home_tf_placeholder">Ingresá el nombre del gasto</string>
+    <string name="home_filter_year">Año</string>
+    <string name="home_filter_week">Semana</string>
+    <string name="home_filter_month">Mes</string>
+    <string name="home_filter_today">Hoy</string>
+
 </resources>
